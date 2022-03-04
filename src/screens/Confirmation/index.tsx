@@ -44,7 +44,7 @@ export function Confirmation(){
 
       <Content>
         <DoneSvg width={80} height={80} />
-        <Title>{title}</Title>
+        <Title>Teste{title}</Title>
 
         <Message>
           {message}

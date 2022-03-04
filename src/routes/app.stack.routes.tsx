@@ -26,12 +26,12 @@ export function AppStackRoutes() {
         component={Scheduling}
       />
       <Screen 
-        name='Confirmation'
-        component={Confirmation}
-      />
-      <Screen 
         name='SchedulingDetails'
         component={SchedulingDetails}
+      />
+      <Screen 
+        name='Confirmation'
+        component={Confirmation}
       />
       <Screen 
         name='MyCars'

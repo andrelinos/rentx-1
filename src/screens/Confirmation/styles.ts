@@ -13,7 +13,7 @@ export const Content = styled.View`
   justify-content: center;
   align-items: center;
 
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 `;
 
 export const Title = styled.Text`
@@ -21,7 +21,7 @@ export const Title = styled.Text`
   font-family: ${({ theme }) => theme.fonts.secondary_600 };
   color: ${({ theme }) => theme.colors.shape };
 
-  margin-top: 40px;
+  margin-top: 80px;
 `;
 
 export const Message = styled.Text`
